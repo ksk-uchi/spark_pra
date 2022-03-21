@@ -1,0 +1,3 @@
+spark.hadoop.fs.s3a.impl        org.apache.hadoop.fs.s3a.S3AFileSystem
+spark.hadoop.fs.s3a.access.key  <ACCESS_KEY>
+spark.hadoop.fs.s3a.secret.key  <SECRET_KEY>
